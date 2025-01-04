@@ -1,3 +1,3 @@
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/davidbreau"/>
+  <img src="https://render.gitanimals.org/farms/davidbreau?theme=dark"/>
 </a>
